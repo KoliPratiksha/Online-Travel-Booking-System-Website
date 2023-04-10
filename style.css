@@ -1,0 +1,68 @@
+nav .btn{
+    width: 6rem;
+    height: 2rem;
+    background-color: rgb(165, 42, 104);
+}
+/* .navbar{
+    background-color: rgb(251, 249, 253);
+} */
+#hero{
+    background-color:rgb(84, 13, 134);
+}
+#hero .btn{
+    width: 15rem;
+    height: 3rem;
+}
+#hero h1{
+    font-size: 5rem;
+}
+#hero h2{
+   font-size: 2rem;
+}
+#service h1{
+    font-size: 5rem;
+}
+#service h2{
+    font-size: 3rem;
+}
+.right btn{
+    width: 3rem;
+    height: 5rem;
+}
+.card img{
+    height: 40vh;
+}
+#about .text img{
+    
+    width: 600px;
+    height: 500px;
+}
+#about h1{
+    font-size: 4rem;
+}
+#information{
+    background-color: rgb(199, 231, 241);
+}
+#information .card{
+    height: 33vh;
+}
+#booking{
+    background-color: rgb(83, 233, 233);
+}
+#booking img{
+    width: 25rem;
+    height: 45vh;
+}
+#footer{
+    background-color: rgb(84, 13, 134);
+}
+#footer .btn{
+    width: 15rem;
+    height: 3rem;
+}
+#footer h4{
+    font-size: 2rem;
+}
+#footer h1{
+    font-size: 4rem;
+}
