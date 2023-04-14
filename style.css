@@ -73,4 +73,7 @@ nav .btn{
     .foot h1{
         font-size: 50px;
     }
+    .text1{
+        display: none;
+    }
 }
