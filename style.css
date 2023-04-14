@@ -14,7 +14,7 @@ nav .btn{
     height: 3rem;
 }
 #hero h1{
-    font-size: 5rem;
+    font-size: 3rem;
 }
 #hero h2{
    font-size: 2rem;
@@ -38,7 +38,7 @@ nav .btn{
     height: 500px;
 }
 #about h1{
-    font-size: 4rem;
+    font-size: 3rem;
 }
 #information{
     background-color: rgb(199, 231, 241);
@@ -63,6 +63,14 @@ nav .btn{
 #footer h4{
     font-size: 2rem;
 }
-#footer h1{
+.foot h1{
     font-size: 4rem;
+}
+@media screen and (max-width:768px) {
+    .right a{
+        display: none;
+    }
+    .foot h1{
+        font-size: 50px;
+    }
 }
