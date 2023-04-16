@@ -70,10 +70,16 @@ nav .btn{
     .right a{
         display: none;
     }
+    .a{
+        padding-left: 3rem;
+    }
     .foot h1{
         font-size: 50px;
     }
     .text1{
         display: none;
+    }
+    .card{
+        margin-top: 2rem;
     }
 }
